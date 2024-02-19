@@ -1,7 +1,7 @@
 {
-  "name": "vandyhacks-recruiting-2024-jihengli",
+  "name": "taskmanager",
   "version": "1.0.0",
-  "description": "Thank you for expressing interest in the VandyHacks Dev Committee.",
+  "description": "a platform for tasks and developers",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.ts",
